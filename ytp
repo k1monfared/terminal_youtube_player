@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## This scripts searches for a youtuve video given its ID. For example, the id for https://www.youtube.com/watch?v=2QTf8Yjn7Hk is the part after "v=", i.e. "2QTf8Yjn7Hk"
+## This scripts searches for a youtuve video given its ID and plays it once using mplayer. For example, the id for https://www.youtube.com/watch?v=2QTf8Yjn7Hk is the part after "v=", i.e. "2QTf8Yjn7Hk"
 ## The usage is: ytp VIDEI_ID, for example, for the above video use: ytp 2QTf8Yjn7Hk
 
 if [[ $(echo $*) ]]; then
