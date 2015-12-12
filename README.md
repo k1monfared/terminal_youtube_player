@@ -1,4 +1,4 @@
-# terminal_youtube_player: Play a youtube video from terminal
+# Play a youtube video from terminal
 
 Everyyoutube video has an ID which is in the link after "v=".
 For example the video in this link: https://www.youtube.com/watch?v=2QTf8Yjn7Hk
