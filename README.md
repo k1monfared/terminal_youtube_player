@@ -1,6 +1,6 @@
 # Play a youtube video from terminal
 
-Everyyoutube video has an ID which is in the link after "v=".
+Each youtube video has an ID which is in the link after "v=".
 For example the video in this link: https://www.youtube.com/watch?v=2QTf8Yjn7Hk
 has the video id: 2QTf8Yjn7Hk
 
